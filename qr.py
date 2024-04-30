@@ -19,7 +19,7 @@ def generate_qr_code(data, filename):
 
 if __name__ == "__main__":
     # String to encode into QR code
-    qr_data = "Hello, World!"
+    qr_data = "Devansh"
 
     # Filename for the PNG file
     png_filename = "generated_qr_code.png"
