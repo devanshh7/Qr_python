@@ -19,5 +19,5 @@ jobs:
       with:
         python-version: '3.12'
 
-     - name: Run debt.py 
-      run: python debt.py
+     - name: Run qr.py 
+      run: python qr.py
